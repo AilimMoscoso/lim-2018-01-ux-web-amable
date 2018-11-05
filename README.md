@@ -1,5 +1,5 @@
 # Rediseño de la web corporativa de Amable
-![](La-America/img/foodmap-amable.jpg)
+![](foodmap-amable.jpg)
 
 ## Preámbulo
 
