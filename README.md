@@ -42,6 +42,22 @@ Analizamos los resultados obtenidos en la investigación y realizamos una sesió
 
 ![Brainstorming](img/brainstorming.jpg)
 
+Tras ello, obtuvimos los siguientes insights:
+
+* La experiencia y el saber con quiénes ha trabajado previamente la empresa (Amable) le brinda confianza y credibilidad a sus usuarios.
+* Un lenguaje sencillo y simple ayuda a los usuarios a entender mejor los servicios de la empresa y genera mayor seguridad al momento de contratar los servicios.
+* Los clientes de Amable los reconocen por la capacidad de co-creación que tienen con ellos.
+
+### Ideación:
+
+Con la información obtenida y sintetizada, comenzamos a idear la propuesta. Lo primero que hicimos fue elaborar nuestro mapa de navegación:
+
+![Mapa de navegación](img/navigation-map.jpg)
+
+Seguido de nuestro diagrama de flujo:
+
+![Diagrama de Flujo](img/user-flow.jpg)
+
 ## Checklist
 - [ ] _README_ explicando el proceso del proyecto
 - [ ] Mapa de navegación
