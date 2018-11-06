@@ -1,5 +1,5 @@
 # Rediseño de la web corporativa de Amable
-![](foodmap-amable.jpg)
+![](img/foodmap-amable.jpg)
 
 [(Mira aquí el prototipo clickeable)](https://www.figma.com/proto/Jr3zLTCK0QSxXIfGsl0ne1dG/Web-Amable?node-id=0%3A1&scaling=min-zoom) 
 
@@ -36,9 +36,11 @@ Si estuvieses buscando una consultora que te ayude a mejorar el servicio o la ex
 [Aquí encontrarás los audios de las entrevistas.](https://drive.google.com/open?id=1fbG0y_sX9dFfkdf5rFoXX15XgPAB8o9T0wujBNVCN4o)
 
 
-### Ideación
+### Síntesis:
 
+Analizamos los resultados obtenidos en la investigación y realizamos una sesión de brainstorming, en donde, a través de un ejercicio de conceptualización, otorgamos a la empresa una personalidad que nos permitía conocer mejor sus valores y lo que querían mostrar a sus clientes en la plataforma web.
 
+![Brainstorming](img/brainstorming.jpg)
 
 ## Checklist
 - [ ] _README_ explicando el proceso del proyecto
