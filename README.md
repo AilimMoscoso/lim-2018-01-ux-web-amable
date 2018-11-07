@@ -3,6 +3,18 @@
 
 [(Mira aquí el prototipo clickeable)](https://www.figma.com/proto/Jr3zLTCK0QSxXIfGsl0ne1dG/Web-Amable?node-id=0%3A1&scaling=min-zoom) 
 
+**Herramientas utilizadas durante el proceso:**
+* Balsamiq
+* Figma
+* Illustrator
+
+**Entregables para el cliente**
+* Propuesta de mejora
+* Wireframe clickeable
+* Mapa de navegación
+* User flow
+* Prototipo de alta fidelidad
+* Link de Zeplin
 
 ## ¿Qué es Amable?
 Una consultora que brinda servicios de Diseño de Experiencia de Usuario a empresas en Argentina, Chile, Ecuador y Perú. [Conoce más sobre Amable aquí](documentos/presentacion_amable.pdf).
@@ -10,7 +22,7 @@ Una consultora que brinda servicios de Diseño de Experiencia de Usuario a empre
 ## El reto
 Tras sufrir un hackeo en el servidor, la web de Amable tuvo que suspenderse y, en su lugar, se colocó un parche con información básica de la empresa. 
 
-Para solucionar esta situación, rediseñaremos la página web comunicando con un lenguaje “amable” y un diseño adecuado qué es Amable y qué servicios brinda, de esta manera generará credibilidad y confianza en sus clientes.
+Para solucionar esta situación, rediseñaremos la página web comunicando con un lenguaje “amable” y con un diseño adecuado qué es Amable y qué servicios brinda, de esta manera generará credibilidad y confianza en sus clientes.
 
 ## Proceso de rediseño
 Seguimos el modelo de Design Thinking para realizar nuestro proceso de rediseño, el cual dividimos en las siguientes fases:
@@ -61,14 +73,45 @@ Seguido de nuestro diagrama de flujo:
 
 ![Diagrama de Flujo](img/user-flow.jpg)
 
-Y finalmente utilizamos el sketching y Wireframing para hacer los prototipos de baja fidelidad de nuestra propuesta. Para realizar el wireframe usamos Balsamiq, de modo que tengamos un wireframe clickeable.
+Y finalmente utilizamos el sketching y Wireframing para hacer los prototipos de baja fidelidad de nuestra propuesta. Para realizar el wireframe usamos Balsamiq, de modo que tengamos un wireframe clickeable posible de ser testeado.
 
 [Puedes revisar el wireframe aquí.](https://drive.google.com/open?id=1gvP7S4EdIsro0hXIiYUMjLEe8XOJ-iY3)
 
-## Checklist
-- [ ] _README_ explicando el proceso del proyecto
-- [ ] Mapa de navegación
-- [ ] Diagrama de flujo
-- [ ] _Wireframes_
-- [ ] Prototipo interactivo
-- [ ] Documentación en Zeplin (o similar)
+
+### Prototipado:
+
+Tras los resultados obtenidos tras un quick testing en wireframes, realizamos nuestra 1ra propuesta de prototipado de alta fidelidad con algunas modificaciones utilizando la herramienta Figma:
+
+![Primera propuesta de Prototipo](img/primera-propuesta.jpg)
+
+### Testing
+
+Pudimos testear el prototipo con potenciales usuarios, y como resultado obtuvimos las siguientes oportunidades de mejora:
+
+**insights del 1er testing:**
+* Los casos de éxito deberían mostrar casos reales para saber qué tipo de retos tenían sus clientes. 
+* Redefinir el writting según la imagen que desea proyectar la empresa, puesto que aún no logra proyectar por completo los valores de Amable.
+* En la sección Nosotros, el mapa de ubicación donde se encuentran las sedes deberá redefinirse puesto que los usuarios pensaron que cada país contenía información sobre los sedes.
+* La propuesta de avatares fue bien recibida, les pareció que representaba bien la imagen que proyecta Amable.
+
+**Resultados y propuestas de mejora**
+* Se necesitaba explicar mejor la bienvenida, para que conecte más rápido. Para ello, decidimos reforzar el writting en el Home y cambiar a una imagen más significativa. Asimismo, acompañarlo de un call-to-action que dirija al segundo punto más importante para los usuario: el tipo de servicios.
+![Home del prototipo](img/home-amable.jpg)
+
+* Para mejorar la confianza del potencial cliente de Amable, se decidió integrar los logos debajo de la primera vista en color desaturado para no crear confusión. Seguido de lo proyectos más recientes que Amable haya realizado.
+![clientes del prototipo](img/clientes-amable.jpg)
+
+* Una manera de reforzar y ganarse la confianza de potenciales clientes a la empresa es compartiendo conocimiento, por esto consideramos vincular el blog de la empresa (Capire.info) con la página web principal.
+![blog del prototipo](img/blog-amable.jpg)
+
+### Iteración
+
+Tras verificar lo recogido en el testing y corroborarlo con lo que el cliente necesita, hicimos la tercera propuesta de prototipado que podrán revisar en el [siguiente link.](https://www.figma.com/proto/Jr3zLTCK0QSxXIfGsl0ne1dG/Web-Amable?node-id=0%3A1&scaling=min-zoom)
+
+
+**Documentación en Zeplin**
+[Puedes revisar los assets de Zeplin aquí.](https://zpl.io/V4vxNop)
+
+
+
+
