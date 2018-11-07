@@ -36,14 +36,14 @@ Para acompañar y validar los resultados, realizamos un benchmark de algunas pá
 
 Asimismo, realizamos un test de guerrilla con dos posibles clientes de una consultora UX, de manera que podamos conocer más a nuestro usuario y su perspectiva al momento de contratar una empresa de este rubro. Las preguntas fueron las siguientes:
 
-Si estuvieses buscando una consultora que te ayude a mejorar el servicio o la experiencia que les brindas a tus clientes:
+* Si estuvieses buscando una consultora que te ayude a mejorar el servicio o la experiencia que les brindas a tus clientes:
 
-¿Cómo la buscarías, de qué formas, a través de qué medios?
-¿Qué te gustaría o que esperas encontrar al estar en contacto con ella?
-¿Si esta consultora tuviese una página web, que es lo principal o necesario para ti que debería tener?
-¿Cuáles son los puntos más relevantes que te haría confiar o querer trabajar con la consultora?
-¿A través de qué canales de contacto te gustaría comunicarte con ellos?
-¿Es relevante para ti que se muestre el proceso de los proyectos que hizo la consultora? ¿Porqué?
+- ¿Cómo la buscarías, de qué formas, a través de qué medios?
+- ¿Qué te gustaría o que esperas encontrar al estar en contacto con ella?
+- ¿Si esta consultora tuviese una página web, que es lo principal o necesario para ti que debería tener?
+- ¿Cuáles son los puntos más relevantes que te haría confiar o querer trabajar con la consultora?
+- ¿A través de qué canales de contacto te gustaría comunicarte con ellos?
+- ¿Es relevante para ti que se muestre el proceso de los proyectos que hizo la consultora? ¿Porqué?
 
 [Aquí encontrarás los audios de las entrevistas.](https://drive.google.com/open?id=1fbG0y_sX9dFfkdf5rFoXX15XgPAB8o9T0wujBNVCN4o)
 
@@ -86,7 +86,7 @@ Tras los resultados obtenidos tras un quick testing en wireframes, realizamos nu
 
 ### Testing
 
-Pudimos testear el prototipo con potenciales usuarios, y como resultado obtuvimos las siguientes oportunidades de mejora:
+Pudimos testear el prototipo con tres (03) potenciales usuarios, y como resultado obtuvimos las siguientes oportunidades de mejora:
 
 **insights del 1er testing:**
 * Los casos de éxito deberían mostrar casos reales para saber qué tipo de retos tenían sus clientes. 
@@ -112,6 +112,10 @@ Tras verificar lo recogido en el testing y corroborarlo con lo que el cliente ne
 **Documentación en Zeplin**
 [Puedes revisar los assets de Zeplin aquí.](https://zpl.io/V4vxNop)
 
+**Equipo de trabajo - CreaX**
+- Ailim Moscoso
+- Danelly Sotomayor
+- Natalie Chang
 
 
 
