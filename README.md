@@ -75,7 +75,9 @@ Seguido de nuestro diagrama de flujo:
 
 Y finalmente utilizamos el sketching y Wireframing para hacer los prototipos de baja fidelidad de nuestra propuesta. Para realizar el wireframe usamos Balsamiq, de modo que tengamos un wireframe clickeable posible de ser testeado.
 
-[Puedes revisar el wireframe aquí.](https://drive.google.com/open?id=1gvP7S4EdIsro0hXIiYUMjLEe8XOJ-iY3)
+![scketching - wireframing](img/sketch-wire.jpg)
+
+[Puedes revisar el wireframe clickeable aquí.](https://drive.google.com/open?id=1gvP7S4EdIsro0hXIiYUMjLEe8XOJ-iY3)
 
 
 ### Prototipado:
