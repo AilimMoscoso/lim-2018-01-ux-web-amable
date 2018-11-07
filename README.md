@@ -44,9 +44,12 @@ Analizamos los resultados obtenidos en la investigación y realizamos una sesió
 
 Tras ello, obtuvimos los siguientes insights:
 
-* La experiencia y el saber con quiénes ha trabajado previamente la empresa (Amable) le brinda confianza y credibilidad a sus usuarios.
-* Un lenguaje sencillo y simple ayuda a los usuarios a entender mejor los servicios de la empresa y genera mayor seguridad al momento de contratar los servicios.
-* Los clientes de Amable los reconocen por la capacidad de co-creación que tienen con ellos.
+* La experiencia que tienen, el saber con quiénes han trabajado y sus casos de éxito brindan confianza y credibilidad a los potenciales clientes de Amable.
+* Los potenciales clientes de Amable no tiene claro qué servicios ofrecen en su página web.
+* Un lenguaje sencillo y simple ayuda a los potenciales clientes a entender mejor los servicios que brinda la empresa y genera mayor seguridad al momento de contratar los servicios.
+* Los clientes de Amable los reconocen por la capacidad de co-creación que tienen con ellos: se sienten partners.
+* La calidad del equipo, su profesionalismo y su background son tres de las características que más valoran los clientes de Amable.
+
 
 ### Ideación:
 
@@ -57,6 +60,10 @@ Con la información obtenida y sintetizada, comenzamos a idear la propuesta. Lo 
 Seguido de nuestro diagrama de flujo:
 
 ![Diagrama de Flujo](img/user-flow.jpg)
+
+Y finalmente utilizamos el sketching y Wireframing para hacer los prototipos de baja fidelidad de nuestra propuesta. Para realizar el wireframe usamos Balsamiq, de modo que tengamos un wireframe clickeable.
+
+[Puedes revisar el wireframe aquí.](https://drive.google.com/open?id=1gvP7S4EdIsro0hXIiYUMjLEe8XOJ-iY3)
 
 ## Checklist
 - [ ] _README_ explicando el proceso del proyecto
