@@ -84,7 +84,7 @@ Y finalmente utilizamos el sketching y Wireframing para hacer los prototipos de 
 
 Tras los resultados obtenidos tras un quick testing en wireframes, realizamos nuestra 1ra propuesta de prototipado de alta fidelidad con algunas modificaciones utilizando la herramienta Figma:
 
-![Primera propuesta de Prototipo](img/primera-propuesta-amable.jpg)
+![Primera propuesta de Prototipo](img/primera-propuesta-amable.png)
 
 ### Testing
 
