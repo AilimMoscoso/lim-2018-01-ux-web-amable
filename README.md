@@ -115,6 +115,7 @@ Tras verificar lo recogido en el testing y corroborarlo con lo que el cliente ne
 [Puedes revisar los assets de Zeplin aquí.](https://zpl.io/V4vxNop)
 
 **Equipo de trabajo - CreaX**
+![Logo-Creax](img/Logo-creax.png)
 - Ailim Moscoso
 - Danelly Sotomayor
 - Natalie Chang
